@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kismet]]></title>
+        <description><![CDATA[kismet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 03 Sep 2016 06:56:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cost of Living in Kuwait]]></title>
+            <description><![CDATA[<article><h1>Cost of Living in Kuwait</h1><p>I often see questions about the costs of living in Kuwait on reddit, 248am, and various popular expat sites. Or sometimes people ask if they should accept a position in Kuwait based on their package compared to the living costs. Point being its a recurring hot topic.</p><img src="https://shell9.files.wordpress.com/2014/01/kuwait-cost-of-living.png?w=600&h=411"></article>]]></description>
+            <link>https://shell9.wordpress.com/2014/01/24/cost-of-living-in-kuwait/</link>
+            <guid isPermaLink="false">b6854f47-0c2e-48be-b7fc-1a3e483d0bc4</guid>
+            <pubDate>Sat, 03 Sep 2016 06:56:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
